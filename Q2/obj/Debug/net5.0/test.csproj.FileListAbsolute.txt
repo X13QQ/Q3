@@ -1,0 +1,5 @@
+C:\Users\謝孝瑄\Desktop\Q3\Q2\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+C:\Users\謝孝瑄\Desktop\Q3\Q2\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\謝孝瑄\Desktop\Q3\Q2\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+C:\Users\謝孝瑄\Desktop\Q3\Q2\obj\Debug\net5.0\test.AssemblyInfo.cs
+C:\Users\謝孝瑄\Desktop\Q3\Q2\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
